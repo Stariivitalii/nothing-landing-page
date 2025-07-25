@@ -10,4 +10,6 @@
 
       WebP
 
+      BEM
+
       GitHub Pages
